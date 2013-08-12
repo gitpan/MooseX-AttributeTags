@@ -1,0 +1,16 @@
+CONTRIBUTING
+COPYRIGHT
+CREDITS
+Changes
+LICENSE
+MANIFEST
+META.json
+META.ttl
+META.yml
+Makefile.PL
+README
+SIGNATURE
+dist.ini
+lib/MooseX/AttributeTags.pm
+lib/MooseX/AttributeTags/PRole.pm
+t/01basic.t
