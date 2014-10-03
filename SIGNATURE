@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.70.
+signed via the Module::Signature module, version 0.73.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,25 +14,26 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 294505f858f11dd062e9916e3f50d88210a9ef54 CONTRIBUTING
-SHA1 a1a00fc6ba24a4e4ccba358666e01d6cc48cb000 COPYRIGHT
-SHA1 45e9f2d5a91a78e81745f0b45a0a67abd518b38d CREDITS
-SHA1 2f09a6e6def18df38215c4bee15e9443126393a8 Changes
-SHA1 ec5a7b4f3023f03ebf821b57690758f7e6f3ae2a LICENSE
-SHA1 176bf9e9671f918b0fb41d336a6e5431daa0d1cf MANIFEST
-SHA1 a331e5c9986a75d9eed0987d927a2d6c90bf0c7c META.json
-SHA1 f1e762786fe3175792b6a90e2ad802f3af621dad META.ttl
-SHA1 5351fe80b41ebfa3ce6b0c90649cffcd17f274c0 META.yml
-SHA1 4daa2ecdc9cfd2cf222dd451ca079774bfb12a73 Makefile.PL
+SHA1 33317486c4fa2cf7fec85bf92ed38ac0f64233a0 CONTRIBUTING
+SHA1 ba1303da606c50cc2b0415344c133ae77451fa33 COPYRIGHT
+SHA1 6bd7b17d81be63d08d4efa6cb80106e72887842c CREDITS
+SHA1 5a9afd88a980b3d4d5dbf47dd211fa47b99e2d30 Changes
+SHA1 333d7f7e2e2edb5ae897e5a24323b4c47151a109 INSTALL
+SHA1 34f5e12514b91055de4b164a1f2327ef5c30ba53 LICENSE
+SHA1 98c03a9d8e409b5f40d0c7b7ecdcabc2f82669ed MANIFEST
+SHA1 553d14b97a8e5dfe14493712b8c9d1771fcee453 META.json
+SHA1 6edf159fbd482ca69ea59980b8b631ea6de5e8b7 META.yml
+SHA1 d3b8bcb2d4b9319ee87f5ee2079ed40c14bdc5eb Makefile.PL
 SHA1 37f9fd9132a4ac5410d4ecfd320d828bfede98e9 README
 SHA1 7cf16fd6cb53183ef3ff4314cdd79056167656ae dist.ini
-SHA1 3d90f1bc77345f7a350ce88757a7cd384c046887 lib/MooseX/AttributeTags.pm
-SHA1 96f53d8c52b42a1a4557d82cdf8bd3e2485174eb lib/MooseX/AttributeTags/PRole.pm
+SHA1 63f379222238b5ad8bb949bd1e31f719b6c76ebf doap.ttl
+SHA1 27170af75d4bc329bcb0e3709e59803b45e3e2bd lib/MooseX/AttributeTags.pm
+SHA1 d0f6f1a29b5eb5a682212f2d2d06d258131fa1a5 lib/MooseX/AttributeTags/PRole.pm
 SHA1 0c583322239b0428bd31534d4b857fbce3c0cb02 t/01basic.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1
 
-iEYEARECAAYFAlII+NIACgkQzr+BKGoqfTk4twCeNWRnmb+XLe+sL2vC1DCr0K4F
-/TkAoK1LJNf7IAn0C9Pz1tgMo3rQA0Qc
-=kdtw
+iEYEARECAAYFAlQvFXYACgkQzr+BKGoqfTnIDwCfdAOLdiHMCwOoer/HtTXH9nRZ
+nFIAnRE8u5WMVLUL0xtUdB2XGfvRB072
+=2PZy
 -----END PGP SIGNATURE-----
